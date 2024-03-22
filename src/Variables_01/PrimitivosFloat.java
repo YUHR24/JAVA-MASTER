@@ -1,4 +1,4 @@
-package VARIABLES_01;
+package Variables_01;
 
 public class PrimitivosFloat {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package VARIABLES_01;
+package Variables_01;
 
-public class Primitivos {
+public class PrimitivosEnteros {
     public static void main(String[] args) {
 
         byte numeroByte = 127;
